@@ -17,8 +17,6 @@
 """
 
 
-
-
 def add(num1, num2):
     """Adds two numbers together (num1 and num2)"""
     return num1 + num2
